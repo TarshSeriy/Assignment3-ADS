@@ -1,4 +1,4 @@
-package utils;
+package utils.classes;
 
 public class Student {
     private String name;

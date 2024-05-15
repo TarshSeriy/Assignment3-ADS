@@ -1,4 +1,4 @@
-package utils.interfaces;
+package org.example.utils.interfaces;
 
 public interface MyHashTableInterface<K, V> {
     void put(K key, V value);

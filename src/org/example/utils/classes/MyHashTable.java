@@ -1,7 +1,7 @@
-package utils.classes;
+package org.example.utils.classes;
 
 import lombok.Getter;
-import utils.interfaces.MyHashTableInterface;
+import org.example.utils.interfaces.MyHashTableInterface;
 
 public class MyHashTable<K, V> implements MyHashTableInterface<K, V> {
     private HashNode<K, V>[] chainArray;

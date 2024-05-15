@@ -1,4 +1,4 @@
-package utils.interfaces;
+package org.example.utils.interfaces;
 
 public interface MyBSTInterface<K extends Comparable<K>, V> {
     void put(K key, V value);

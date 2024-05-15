@@ -1,4 +1,4 @@
-package utils.classes;
+package org.example.utils.classes;
 
 import java.io.File;
 import java.io.IOException;
